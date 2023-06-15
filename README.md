@@ -2,7 +2,7 @@
 "Bulls And Cows" command line version.
 
 🐮🐮🐮🐮🐮
-
+##working
 --asks for length of secret code (and number of symbols)
 
 --generates secret code with characters (either a-z or 0-9 or both)
@@ -14,6 +14,7 @@
 --🐄Cows = characters of guess code not in correct position
 
 
+
 >Variations of code generation
 
 only numbers🔢
@@ -23,7 +24,7 @@ lowercase letters🔡 + numbers🔢
 (Main.java currently generates code with characters a-z, 0-9)
 
 
->Project details
+##Project details
 
 1. Grade - gets number of bulls and cows
 
