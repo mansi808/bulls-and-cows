@@ -1,6 +1,6 @@
 package bullscows;
 
-//secret code generated using System.nanoTime(
+//secret code generated using System.nanoTime()
 class PseudoCode extends GeneratedCode {
 
     PseudoCode(int length) {
