@@ -3,7 +3,7 @@
 
 🐮🐮🐮🐮🐮
 
---asks for length of secret code
+--asks for length of secret code (and number of symbols)
 
 --generates secret code with characters (either a-z or 0-9 or both)
 
@@ -15,8 +15,10 @@
 
 >Variations of code generation
 
-numbers🔢
+only numbers🔢 (in class - 'SecretCode/PseudoCode')
 
-lowercase letters🔡 + numbers🔢
+lowercase letters🔡 + numbers🔢 (in class - 'ImpossibleCode')
+
+(Main.java currently generates code with characters a-z, 0-9)
 
 >Created for Java track project from Hyperskill.
