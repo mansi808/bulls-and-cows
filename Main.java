@@ -32,7 +32,6 @@ public class Main {
         System.out.println("Okay, let's start a game!");
 
         char[] secret_code = impossiblecode.getValue().toString().toCharArray();
-        System.out.println(secret_code);
 
         while (game_active) {
             System.out.println("Turn "+chance_num+":");
